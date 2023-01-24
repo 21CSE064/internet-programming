@@ -1,0 +1,28 @@
+<!doctype html>
+<html>
+<head>
+<title>VEHICLES</title>
+<style>
+h1 {text-align: center;}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
+</head>
+<body>
+<h1>RACE CAR</h1>
+<img src="C:\Users\SKKR\Pictures\car2.jpg" alt="VEHICLES" usemap="#vehicles">
+<map name="vehicles">
+<p>Each race car at Allen Berg Racing Schools is equipped with an AIM onboard data acquisition computer. These computers record driver, engine and chassis information, which is then used by our coaches to analyze driver performance and aid in enhancing their understanding of car dynamics and driving skills. These systems are commonplace at all levels of racing but seldom used in racing schools. Our data systems constantly monitor a wide range of driver and racecar parameters including:</p><br>
+<h2>features</h2>
+<ol>
+<li>Speed</li>
+<li>Lap and track section times</li>
+<li>Engine revs</li>
+<li>Cornering / acceleration / braking force</li>
+<li>Driving Line through GPS tracking</li>
+</ol>
+</body>
+</html>

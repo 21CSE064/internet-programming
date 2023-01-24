@@ -1,0 +1,26 @@
+<!doctype html>
+<html>
+<head>
+<title>cab</title>
+<style>
+h1 {text-align: center;}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
+</head>
+<body>
+<h1>CAB</h1>
+<img src="C:\Users\SKKR\Pictures\cab.jpg" alt="VEHICLES" usemap="#vehicles">
+<map name="vehicles">
+<p>Taxi Cab App is an effective means of struggling the complications connected to hiring a taxi and getting a safe and convenient ride. Taxi Software is the easiest way to book a cab in your city. With the swift and smooth process, it won’t take you long while booking your ride. Commuters crave for the reliability and the quality of the services which they pay for.
+Consistently, the companies are establishing in practice the Taxi Dispatch Software’s more attractive and easy for the clients.
+Taxi Softwares offer significant preferences for anybody calling for a cab.</p><br>
+<h2>Ideal Admin Panel</h2>
+<p>The Admin panel connects drivers and passengers.The master admin panel controls all the details of the driver and passengers. The admin panel stores the details of the entire trip and transaction. This information can be useful to improve the services to grow your business even more.</p><h2>Mobile Application for Driver and Passenger</h2><p>The maximum population around the world are using mobile phones and it is obvious that they will be using many apps for their convenience in every aspect. The mobile application for both drivers and passengers is more convenient and handy.</p>
+<br><h2>Effortless Signup Process</h2><p>The simple but attractive design architecture of the Taxi Software or Taxi Application is to keep the entire booking process user-friendly and hassle-free. Before using any application, it is mandatory to get registered into the application platform. The overall process to get registered requests some essential information such</p>
+<p>Technology is constantly evolving and has impacted every aspect of our lives, including driving. Driving on the road, as recently as 20 years ago, was a far cry from what it looks like today. In those days, driving was a tasking exercise that could seem daunting at times. You relied mainly on your wits and continuously had to go through a mental checklist as you moved around from place to place.</p>
+</body>
+</html>

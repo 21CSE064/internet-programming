@@ -1,0 +1,31 @@
+<!doctype html>
+<html>
+<head>
+<title>VEHICLES</title>
+<style>
+h1 {text-align: center;}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
+</head>
+<body>
+<h1>1.CAR</h1>
+<img src="C:\Users\SKKR\Pictures\car1.jpg" alt="VEHICLES" usemap="#vehicles">
+<map name="vehicles">
+<p>Because of new technology, there are entries of multiple new features across all vehicles.
+...
+10 Latest Features That Many Cars Will See In 2022</p><br>
+<ol>
+<li>ADAS. ...</li>
+<li>Blindspot Monitoring System. ...</li>
+<li>Premium Sound Systems. ...</li>
+<li>Wireless Smart Phone connectivity. ...</li>
+<li>Standard 6 Airbags. ...</li>
+<li>Automatic Emergency Braking.</li>
+</ol><br>
+<p>Technology is constantly evolving and has impacted every aspect of our lives, including driving. Driving on the road, as recently as 20 years ago, was a far cry from what it looks like today. In those days, driving was a tasking exercise that could seem daunting at times. You relied mainly on your wits and continuously had to go through a mental checklist as you moved around from place to place.</p>
+</body>
+</html>
