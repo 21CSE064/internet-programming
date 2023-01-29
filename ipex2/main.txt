@@ -1,0 +1,83 @@
+<!doctype html>
+<html>
+<head>
+<style>
+h1 {text-align: center;}
+img {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+}
+table, th, td {
+  border: 1px solid white;
+  border-collapse: collapse;
+}
+th, td {
+  background-color: #96D4D4;
+}
+</style>
+<title>USC</title>
+</head>
+<body bgcolor="lightgray">
+<style>
+body {
+background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHrYNBSO9CFXYbCTQs_BgerJZ4nLYhG-InuQ&usqp=CAU");
+    
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: 100% 100%;
+    }
+}
+</style>
+<body>
+<h1 style="background-color:DodgerBlue;">University of Southern California</h1>
+<iframe width="760" height="315" src="C:\Users\SKKR\Downloads\WhatsApp Video 2023-01-29 at 9.37.21 PM.mp4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p>The University of Southern California is a private research university in Los Angeles, California, United States. Founded in 1880 by Robert M. Widney, it is the oldest private research university in California. Wikipedia
+Avg cost after aid
+$33K
+Graduation rate
+92%
+Acceptance rate
+13%
+Graduation rate is for first-time, full-time undergraduate students who graduated within 6 years. They were the largest group of students (62%) according to the 2020–21 College Scorecard data ·
+more
+From US Dept of Education · Learn more
+Address: Los Angeles, CA 90007, United States
+Phone: +1 213-740-2311
+Undergraduate enrollment: 19,521 (2020–23)<br>
+</p><br>
+<table style="width:40%">
+  <tr>
+    <th>COST AFTER AID</th>
+    <th>GRADUATION RATE(%)</th>
+    <th>ACCEPTANCE RATE(%)</th>
+  </tr>
+  <tr>
+    <td>$33K</td>
+    <td>92%</td>
+    <td>13%</td>
+  </tr>
+</table><br>
+<h2>overview</h2>
+<p>University of Southern California is a private institution that was founded in 1880. It has a total undergraduate enrollment of 20,790 (fall 2021), its setting is urban, and the campus size is 226 acres. It utilizes a semester-based academic calendar. University of Southern California's ranking in the 2022-2023 edition of Best Colleges is National Universities, #25. Its tuition and fees are $64,726.
+</p>
+<h2>2022 Ranking</h2>
+<p>
+Schools are ranked according to their performance across a set of widely accepted indicators of excellence. Read more about how we rank schools.
+</p>
+<ol>
+<li>#25
+in
+National Universities (tie)</li>
+<li>#9
+in
+Best Colleges for Veterans (tie)</li>
+<li>#62
+in
+Best Value Schools</li>
+</ol>
+ <a href="adm.html">Admission</a><br>
+ <a href="academic page.html">Academics</a><br>
+ <a href="lifestyle.html">Lifestyle</a><br>
+</body>
+</html>

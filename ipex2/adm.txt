@@ -1,0 +1,80 @@
+<!doctype html>
+<html>
+<head>
+<style>
+h1 {text-align: center;}
+img {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+}
+body {
+background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_9ZNNR-L9XVU1SkYOsUXW3BSVpDC6UYnK-Q&usqp=CAU");
+    
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: 100% 100%;
+    }
+}
+</style>
+<title>Admission</title>
+</head>
+<body>
+ <h1>University of southern Californi Admission page</h1>
+ <a href="">
+ <img src="C:\Users\SKKR\Pictures\usc1.png" alt="not available" width="200" height="200">
+ </a>
+<p>We value applicants who challenge themselves with a rigorous curriculum in high school or secondary school<br> and whose personal stories, rich experiences and leadership skills enhance <br>their perspective and potential contributions to our campus community.
+</p>
+<ol><h2 style="color:green;">USC REGISTRATION FORM:</h2></ol>  
+<br>
+ <label for="One">NAME : </label> <input type="text" id="One"
+name="Name"><br><br>
+<label for="age">AGE : </label> <input type="text" id="age"
+name="Name"><br><br>
+<p>ENTER GRADUATION</p>
+ <input type="radio" id="Four" name="ChooseOne" value="UG"><label
+for="Four">UG </label> <input type="radio" id="Four1" name="ChooseOne"
+value="PG"><label for="Four1">PG</label>
+ <p>ENTER DEPARTMENT</p>
+ <div><label>DEPT </label>
+<select>
+<option value="CSE">CSE</option>
+<option value="IT">IT</option>
+<option value="ECE">ECE</option>
+<option value="EEE">EEE</option>
+<option value="CIVIL">CIVIL</option>
+<option value="MEC">MEC</option>
+</select>
+ </div><br>
+<label for="One">COMPLETED UG OR PG IN? </label> <input type="text" id="One"
+name="Name"><br><br>
+ <label for="One">PHONENO : </label> <input type="text" id="One"
+name="Name"><br><br>
+ <label for="One">EMAIL_ID : </label> <input type="text" id="One"
+name="Name"><br>
+<p>ADDRESS:</p>
+ <div>
+<textarea></textarea>
+ </div><br>
+<p>LANGUAGE</p>
+<input type="radio" id="english" name="language" value="ENGLISH">
+<label for="english">ENGLISH</label><br>
+<input type="radio" id="tamil" name="language" value="TAMIL">
+<label for="tamil">TAMIL</label><br>
+<input type="radio" id="hindi" name="language" value="HINDI">
+<label for="hindi">HINDI</label><br>
+<input type="radio" id="html" name="language" value="GERMEN">
+<label for="html">GERMEN</label><br>
+<input type="radio" id="css" name="language" value="FRENCH">
+<label for="css">FRENCH</label><br>
+<input type="radio" id="javascript" name="language" value="CHINESH">
+<label for="javascript">CHINESH</label><br><br>
+ <input type="checkbox" id="Fiv1e" name="ChooseMany" value="The above details are filled with my knowledge only"><label for="Fiv1e">The above details are filled with my knowledge only</label>
+ <p>USC Mail : <a href="mailto:uscadm@gmail.com" style="color: blue">
+uscadm@gmail.com</a></p>
+ <input type="submit" value="Submit" formtarget="_blank"> <input
+type="submit" value="Clear" formtarget="_blank"><br><br>
+ <a href="mailto:ammu@gmail.com" style="color:blueviolet">Back to mail page</a>
+</body>
+</html>

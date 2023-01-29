@@ -1,0 +1,32 @@
+<!doctype html>
+<html>
+<head>
+<title>lifestyle</title>
+</head>
+<style>
+h1 {text-align: center;}
+</style>
+<body>
+<h1 style="background-color:DodgerBlue;">University of Southern California lifestyle page</h1>
+ <a href="">
+ <img src="C:\Users\SKKR\Pictures\infra1.jpg" alt="not available" width="400" height="400">
+ </a>
+<a href="">
+ <img src="C:\Users\SKKR\Pictures\infra.jpg" alt="not available" width="400" height="400">
+ </a>
+<a href="">
+ <img src="C:\Users\SKKR\Pictures\infra2.jpg" alt="not available" width="400" height="400">
+ </a>
+<p>The Sustainable Infrastructure Systems program prepares students for immediate and effective participation in the modern infrastructure workforce through a common core that includes <br>1.smart-system design for sustainable infrastructures<br>2. the societal and regulatory context of infrastructure engineering decisions<br>3. construction management.<br> Five plans of study for the Master of Science degree allow for specialization based on background and interest.</p>
+<a href="">
+ <img src="C:\Users\SKKR\Pictures\infra3.jpg" alt="not available" width="400" height="400">
+ </a>
+<a href="">
+ <img src="C:\Users\SKKR\Pictures\infra4.jpg" alt="not available" width="400" height="400">
+ </a>
+<a href="">
+ <img src="C:\Users\SKKR\Pictures\infra5.jpg" alt="not available" width="400" height="400">
+ </a>
+</body>
+</html>
+
