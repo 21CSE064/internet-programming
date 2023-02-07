@@ -1,0 +1,30 @@
+<DOCTYPE html!>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>services</title>
+    <link rel="stylesheet"
+href="slide.css">
+</head>
+<h1>-------------------------------------------SERVICES OF HERITAGE HOTEL---------------------------------</h1>
+<body bgcolor="lightgray">
+<body>
+    <div  class="slider">
+    </div>
+    <h3>SERVICES</h3>
+<p>‘Heritage Hotels’ cover running hotels in palaces/castles/forts/havelies/hunting loges/
+residence of any size built prior to 1950. The facade, architectural features and
+general construction should have the distinctive qualities and ambience in keeping
+with the traditional way of life of the area. The architecture of the property to be
+considered for this category should not normally be interfered with. Any extension,
+improvement, renovation, change in the existing structures should be in keeping
+with the traditional architectural styles and constructional techniques harmonising
+the new with the old. After expansion/renovation, the newly built up area added
+should not exceed 50% of the total built up (plinth) area including the old and new
+structures. For this purpose, facilities such as swimming pools, lawns etc. will be
+excluded. Heritage Hotels will be sub-classified in the following categories:
+Heritage:
+This category will cover hotel in Residences/Havelies/Hunting Lodges/Castles/Forts/
+Palaces built prior to 1950. The hotel should have a minimum of 5 rooms (10 beds). </p>
+</body>
+</html>
