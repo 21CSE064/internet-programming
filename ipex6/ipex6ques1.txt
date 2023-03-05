@@ -1,0 +1,23 @@
+<html>
+    <head>
+        <title>jquery</title>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.3/jquery.min.js"></script>
+        <script>
+            $(document).ready(function(){
+            $("#j1").click(function(){
+            $("#test1").text("Hello world!");
+            });
+            $(document).ready(function(){
+            $("#j1").dblclick(function(){
+            $("#test1").text("WELCOME");
+            });
+            });
+            });
+            </script>
+    </head>
+    <body>
+        <p id="test1">WELCOME</p>
+<button id="j1">click</button>
+
+    </body>
+</html>

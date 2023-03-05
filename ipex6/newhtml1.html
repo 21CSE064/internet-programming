@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <title>finding vowels</title>
+         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.3/jquery.min.js"></script>
+        <script>
+$(document).ready(function(){
+$("#button1").click(function(){
+var word=$("#strcheck").val();
+const count = word.match(/[aeiou]/gi).length;
+$("#t1").val(count);
+});
+});
+</script>
+    </head>
+    <body style="text-align:center;">
+<h1 style="color:blue;"> JQUERY PROGRAM</h1>
+<h3>calculating no.of vowels in a string </h3>
+STRING:<textarea id="strcheck"></textarea>
+<br>
+ <br>
+NO.OF VOWELS: <input id="t1" type="text">
+<br><br>
+<button type="button" id="button1">Click</button>
+    </body>
+</html>
